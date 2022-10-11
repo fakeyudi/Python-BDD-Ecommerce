@@ -1,0 +1,521 @@
+1665474240178	geckodriver	INFO	Listening on 127.0.0.1:62166
+1665474240704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62167" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile170MVJ"
+1665474241442	Marionette	INFO	Marionette enabled
+2022-10-11 13:14:01.460 plugin-container[39345:4366926] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:14:01.460 plugin-container[39345:4366926] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:14:01.486 plugin-container[39345:4366926] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:14:01.486 plugin-container[39345:4366926] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:14:01.487 plugin-container[39345:4366955] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:14:01.487 plugin-container[39345:4366955] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665474241702	Marionette	INFO	Listening on port 62176
+Read port: 62176
+WebDriver BiDi listening on ws://127.0.0.1:62167
+1665474241859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile170MVJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62167/devtools/browser/faa6af01-25ed-4e7f-8e91-ce1bfd8a9322
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665474322190	geckodriver	INFO	Listening on 127.0.0.1:62423
+1665474322200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62424" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilecgbwge"
+2022-10-11 13:15:22.711 plugin-container[39395:4368295] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:15:22.711 plugin-container[39395:4368295] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:15:22.716 plugin-container[39395:4368295] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:15:22.716 plugin-container[39395:4368295] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:15:22.716 plugin-container[39395:4368293] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:15:22.716 plugin-container[39395:4368293] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665474322724	Marionette	INFO	Marionette enabled
+1665474322759	Marionette	INFO	Listening on port 62429
+Read port: 62429
+WebDriver BiDi listening on ws://127.0.0.1:62424
+1665474323130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilecgbwge/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62424/devtools/browser/9b0904dd-5b06-47ac-9b59-f1305376be90
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665474430998	geckodriver	INFO	Listening on 127.0.0.1:62647
+1665474431007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62648" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile9XKDM2"
+2022-10-11 13:17:11.496 plugin-container[39447:4369616] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:17:11.496 plugin-container[39447:4369616] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:17:11.502 plugin-container[39447:4369616] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:17:11.502 plugin-container[39447:4369616] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:17:11.503 plugin-container[39447:4369614] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:17:11.503 plugin-container[39447:4369614] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665474431516	Marionette	INFO	Marionette enabled
+1665474431558	Marionette	INFO	Listening on port 62653
+Read port: 62653
+WebDriver BiDi listening on ws://127.0.0.1:62648
+1665474431957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile9XKDM2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62648/devtools/browser/949b5813-e9e8-4817-a700-9078f25042cd
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665474562604	Marionette	INFO	Stopped listening on port 62653
+1665474682858	geckodriver	INFO	Listening on 127.0.0.1:63094
+1665474682868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63095" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile6m6M3U"
+2022-10-11 13:21:23.351 plugin-container[39567:4372373] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:21:23.351 plugin-container[39567:4372373] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:21:23.356 plugin-container[39567:4372373] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:21:23.356 plugin-container[39567:4372373] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:21:23.356 plugin-container[39567:4372371] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:21:23.356 plugin-container[39567:4372371] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665474683369	Marionette	INFO	Marionette enabled
+1665474683408	Marionette	INFO	Listening on port 63103
+Read port: 63103
+WebDriver BiDi listening on ws://127.0.0.1:63095
+1665474683742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile6m6M3U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63095/devtools/browser/b07df120-57d0-4030-bf1b-b3d1df7e4984
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665474722669	Marionette	INFO	Stopped listening on port 63103
+1665474723184	geckodriver	INFO	Listening on 127.0.0.1:63453
+1665474723695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63454" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile8WbB1Y"
+2022-10-11 13:22:04.239 plugin-container[39594:4373189] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:22:04.239 plugin-container[39594:4373189] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665474724249	Marionette	INFO	Marionette enabled
+2022-10-11 13:22:04.255 plugin-container[39594:4373189] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:22:04.255 plugin-container[39594:4373189] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:22:04.256 plugin-container[39594:4373213] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:22:04.256 plugin-container[39594:4373213] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665474724299	Marionette	INFO	Listening on port 63461
+Read port: 63461
+WebDriver BiDi listening on ws://127.0.0.1:63454
+1665474724717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile8WbB1Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63454/devtools/browser/9a368f20-5fae-41dc-bee8-715291034ff5
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665474945485	Marionette	INFO	Stopped listening on port 63461
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665474982061	geckodriver	INFO	Listening on 127.0.0.1:63920
+1665474982572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63921" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile2yXSPI"
+2022-10-11 13:26:23.085 plugin-container[39731:4376121] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:26:23.086 plugin-container[39731:4376121] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:26:23.089 plugin-container[39731:4376121] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:26:23.090 plugin-container[39731:4376121] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:26:23.090 plugin-container[39731:4376123] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:26:23.090 plugin-container[39731:4376123] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665474983097	Marionette	INFO	Marionette enabled
+1665474983134	Marionette	INFO	Listening on port 63928
+Read port: 63928
+WebDriver BiDi listening on ws://127.0.0.1:63921
+1665474983479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile2yXSPI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63921/devtools/browser/1b728ca5-2e17-4bf8-a5fe-c440eeaa6e72
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665475141408	Marionette	INFO	Stopped listening on port 63928
+1665475141826	geckodriver	INFO	Listening on 127.0.0.1:64175
+1665475142338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64176" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile7QzD7N"
+2022-10-11 13:29:02.839 plugin-container[39789:4377627] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:29:02.840 plugin-container[39789:4377627] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:29:02.846 plugin-container[39789:4377627] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:29:02.846 plugin-container[39789:4377627] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 13:29:02.847 plugin-container[39789:4377655] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 13:29:02.847 plugin-container[39789:4377655] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665475142853	Marionette	INFO	Marionette enabled
+1665475142901	Marionette	INFO	Listening on port 64183
+Read port: 64183
+WebDriver BiDi listening on ws://127.0.0.1:64176
+1665475143225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile7QzD7N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64176/devtools/browser/18b0cdbe-ff48-4f8e-be3d-781196abc01e
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665478768791	geckodriver	INFO	Listening on 127.0.0.1:64829
+1665478769305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64830" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileLThjor"
+2022-10-11 14:29:29.842 plugin-container[41022:4401783] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:29:29.842 plugin-container[41022:4401783] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:29:29.853 plugin-container[41022:4401783] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:29:29.853 plugin-container[41022:4401783] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:29:29.854 plugin-container[41022:4401781] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:29:29.854 plugin-container[41022:4401781] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665478769859	Marionette	INFO	Marionette enabled
+1665478769896	Marionette	INFO	Listening on port 64837
+Read port: 64837
+WebDriver BiDi listening on ws://127.0.0.1:64830
+1665478770116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileLThjor/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64830/devtools/browser/db692b02-34e7-47af-93fe-1fef88d059a4
+1665478774069	Marionette	INFO	Stopped listening on port 64183
+1665478781160	Marionette	INFO	Stopped listening on port 64837
+1665478781691	geckodriver	INFO	Listening on 127.0.0.1:64949
+1665478782199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64950" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilewKG0m5"
+2022-10-11 14:29:42.667 plugin-container[41036:4402473] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:29:42.668 plugin-container[41036:4402473] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:29:42.673 plugin-container[41036:4402473] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:29:42.673 plugin-container[41036:4402473] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:29:42.673 plugin-container[41036:4402498] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:29:42.673 plugin-container[41036:4402498] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665478782679	Marionette	INFO	Marionette enabled
+1665478782711	Marionette	INFO	Listening on port 64957
+Read port: 64957
+WebDriver BiDi listening on ws://127.0.0.1:64950
+1665478783069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilewKG0m5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64950/devtools/browser/c174cd0c-b3b3-4b9b-8287-f5600a9820ab
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665478830684	Marionette	INFO	Stopped listening on port 64957
+1665479060690	geckodriver	INFO	Listening on 127.0.0.1:65279
+1665479060699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65280" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileeKAzez"
+2022-10-11 14:34:21.138 plugin-container[41155:4405386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:34:21.138 plugin-container[41155:4405386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:34:21.142 plugin-container[41155:4405386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:34:21.142 plugin-container[41155:4405386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:34:21.142 plugin-container[41155:4405411] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:34:21.142 plugin-container[41155:4405411] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665479061153	Marionette	INFO	Marionette enabled
+1665479061189	Marionette	INFO	Listening on port 65285
+Read port: 65285
+WebDriver BiDi listening on ws://127.0.0.1:65280
+1665479061527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileeKAzez/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65280/devtools/browser/f2ce60f4-b006-4acb-8309-7597db496fe1
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665479163793	geckodriver	INFO	Listening on 127.0.0.1:49182
+1665479164305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49183" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilehfEMan"
+2022-10-11 14:36:04.735 plugin-container[41205:4406546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:36:04.735 plugin-container[41205:4406546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:36:04.739 plugin-container[41205:4406546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:36:04.739 plugin-container[41205:4406546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:36:04.739 plugin-container[41205:4406548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:36:04.739 plugin-container[41205:4406548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665479164746	Marionette	INFO	Marionette enabled
+1665479164777	Marionette	INFO	Listening on port 49191
+Read port: 49191
+WebDriver BiDi listening on ws://127.0.0.1:49183
+1665479165083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilehfEMan/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49183/devtools/browser/f899a891-85f4-4fac-af6b-fd71aae9022b
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665479430301	Marionette	INFO	Stopped listening on port 49191
+1665479433138	Marionette	INFO	Stopped listening on port 65285
+1665479518728	geckodriver	INFO	Listening on 127.0.0.1:49887
+1665479519244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49888" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileth6ewY"
+2022-10-11 14:41:59.729 plugin-container[41379:4410670] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:41:59.733 plugin-container[41379:4410670] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665479519742	Marionette	INFO	Marionette enabled
+2022-10-11 14:41:59.754 plugin-container[41379:4410670] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:41:59.754 plugin-container[41379:4410670] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:41:59.754 plugin-container[41379:4410668] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:41:59.754 plugin-container[41379:4410668] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665479519776	Marionette	INFO	Listening on port 49899
+Read port: 49899
+WebDriver BiDi listening on ws://127.0.0.1:49888
+1665479520127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileth6ewY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49888/devtools/browser/954c0e27-d57d-4f43-8f3a-8b8204cd41a5
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665479566169	Marionette	INFO	Stopped listening on port 49899
+1665479566696	geckodriver	INFO	Listening on 127.0.0.1:50350
+1665479567203	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50351" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileOGnsJd"
+2022-10-11 14:42:47.674 plugin-container[41405:4411534] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:42:47.675 plugin-container[41405:4411534] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:42:47.679 plugin-container[41405:4411534] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:42:47.680 plugin-container[41405:4411534] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:42:47.680 plugin-container[41405:4411542] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:42:47.680 plugin-container[41405:4411542] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665479567694	Marionette	INFO	Marionette enabled
+1665479567730	Marionette	INFO	Listening on port 50362
+Read port: 50362
+WebDriver BiDi listening on ws://127.0.0.1:50351
+1665479568119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileOGnsJd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50351/devtools/browser/a92070e2-aa86-4b9d-920b-8c4d90b75a6e
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665479691529	Marionette	INFO	Stopped listening on port 50362
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1665479691931	geckodriver	INFO	Listening on 127.0.0.1:51237
+1665479692443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51238" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile2k6EgE"
+2022-10-11 14:44:52.964 plugin-container[41455:4413101] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:44:52.964 plugin-container[41455:4413101] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665479692977	Marionette	INFO	Marionette enabled
+2022-10-11 14:44:53.008 plugin-container[41455:4413101] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:44:53.008 plugin-container[41455:4413101] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:44:53.009 plugin-container[41455:4413128] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:44:53.009 plugin-container[41455:4413128] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665479693010	Marionette	INFO	Listening on port 51249
+Read port: 51249
+WebDriver BiDi listening on ws://127.0.0.1:51238
+1665479693349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile2k6EgE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51238/devtools/browser/cb31faac-e31e-4b86-bc5e-2e4501c41f59
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665479781370	Marionette	INFO	Stopped listening on port 51249
+1665479781920	geckodriver	INFO	Listening on 127.0.0.1:51880
+1665479782425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51881" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilenaWB3r"
+2022-10-11 14:46:22.935 plugin-container[41505:4414403] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:46:22.935 plugin-container[41505:4414403] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:46:22.940 plugin-container[41505:4414403] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:46:22.940 plugin-container[41505:4414403] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 14:46:22.941 plugin-container[41505:4414401] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 14:46:22.941 plugin-container[41505:4414401] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665479782949	Marionette	INFO	Marionette enabled
+1665479782985	Marionette	INFO	Listening on port 51892
+Read port: 51892
+WebDriver BiDi listening on ws://127.0.0.1:51881
+1665479783327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilenaWB3r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51881/devtools/browser/3b7d6616-486a-483e-8add-0b033f80d99d
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665479879144	Marionette	INFO	Stopped listening on port 51892
+1665481006095	geckodriver	INFO	Listening on 127.0.0.1:57598
+1665481006610	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57599" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilexOCy9k"
+1665481007144	geckodriver	INFO	Listening on 127.0.0.1:57610
+1665481007651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57611" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileV0c7DB"
+2022-10-11 15:06:50.120 plugin-container[42077:4427436] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:06:50.121 plugin-container[42077:4427436] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:06:50.341 plugin-container[42077:4427436] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:06:50.341 plugin-container[42077:4427436] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:06:50.341 plugin-container[42077:4427441] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:06:50.342 plugin-container[42077:4427441] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:06:50.353 plugin-container[42078:4427476] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:06:50.354 plugin-container[42078:4427476] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:06:50.358 plugin-container[42078:4427476] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:06:50.358 plugin-container[42078:4427476] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:06:50.358 plugin-container[42078:4427474] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:06:50.359 plugin-container[42078:4427474] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665481010370	Marionette	INFO	Marionette enabled
+1665481010410	Marionette	INFO	Listening on port 57634
+Read port: 57634
+WebDriver BiDi listening on ws://127.0.0.1:57599
+WebDriver BiDi listening on ws://127.0.0.1:57611
+1665481010816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileV0c7DB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57599/devtools/browser/507c112d-bbc1-43f9-a878-4d103a098526
+DevTools listening on ws://127.0.0.1:57611/devtools/browser/94a4bcf1-7f1e-4ae1-8812-a0158f1cd32b
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665481242893	Marionette	INFO	Stopped listening on port 57634
+1665481243562	geckodriver	INFO	Listening on 127.0.0.1:59165
+1665481244069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59166" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofiletFBnH3"
+1665481245120	Marionette	INFO	Marionette enabled
+2022-10-11 15:10:45.138 plugin-container[45666:4451015] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:10:45.138 plugin-container[45666:4451015] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:10:45.155 plugin-container[45666:4451015] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:10:45.155 plugin-container[45666:4451015] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:10:45.156 plugin-container[45666:4451010] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:10:45.156 plugin-container[45666:4451010] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665481245192	Marionette	INFO	Listening on port 59181
+Read port: 59181
+WebDriver BiDi listening on ws://127.0.0.1:59166
+1665481245677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofiletFBnH3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59166/devtools/browser/94b62415-d99b-44ca-9c0d-45e22659e842
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665481457289	Marionette	INFO	Stopped listening on port 59181
+1665481457747	geckodriver	INFO	Listening on 127.0.0.1:60298
+1665481458254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60299" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile8pMsOj"
+2022-10-11 15:14:18.964 plugin-container[50348:4480645] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:14:18.965 plugin-container[50348:4480645] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:14:18.970 plugin-container[50348:4480645] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:14:18.970 plugin-container[50348:4480645] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:14:18.970 plugin-container[50348:4480677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:14:18.970 plugin-container[50348:4480677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665481458991	Marionette	INFO	Marionette enabled
+1665481459040	Marionette	INFO	Listening on port 60310
+Read port: 60310
+WebDriver BiDi listening on ws://127.0.0.1:60299
+1665481459577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile8pMsOj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60299/devtools/browser/109c5bf8-7b8f-4df2-a7ae-0d2d337f0f8f
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665481580932	Marionette	INFO	Stopped listening on port 60310
+1665481581391	geckodriver	INFO	Listening on 127.0.0.1:61140
+1665481581900	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61141" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilejBAGsM"
+2022-10-11 15:16:22.619 plugin-container[53082:4498036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:16:22.620 plugin-container[53082:4498036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:16:22.624 plugin-container[53082:4498036] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:16:22.625 plugin-container[53082:4498036] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:16:22.625 plugin-container[53082:4498034] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:16:22.625 plugin-container[53082:4498034] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665481582649	Marionette	INFO	Marionette enabled
+1665481582710	Marionette	INFO	Listening on port 61155
+Read port: 61155
+WebDriver BiDi listening on ws://127.0.0.1:61141
+1665481583308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilejBAGsM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61141/devtools/browser/e8dbe00c-e142-4579-bcb8-7913b8eb5de8
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665481771827	Marionette	INFO	Stopped listening on port 61155
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1665481772312	geckodriver	INFO	Listening on 127.0.0.1:62195
+1665481772823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62196" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileW98Z1w"
+1665481773651	Marionette	INFO	Marionette enabled
+2022-10-11 15:19:33.665 plugin-container[57306:4524579] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:19:33.667 plugin-container[57306:4524579] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:19:33.679 plugin-container[57306:4524579] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:19:33.679 plugin-container[57306:4524579] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:19:33.680 plugin-container[57306:4524611] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:19:33.680 plugin-container[57306:4524611] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665481773724	Marionette	INFO	Listening on port 62207
+Read port: 62207
+WebDriver BiDi listening on ws://127.0.0.1:62196
+1665481774335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileW98Z1w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62196/devtools/browser/15c79ffb-8ad2-4765-abfb-dab568ab9dea
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482188699	Marionette	INFO	Stopped listening on port 62207
+1665482337041	geckodriver	INFO	Listening on 127.0.0.1:65060
+1665482337554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65061" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilettQPH4"
+2022-10-11 15:28:58.017 plugin-container[67026:4586948] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:28:58.018 plugin-container[67026:4586948] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:28:58.024 plugin-container[67026:4586948] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:28:58.024 plugin-container[67026:4586948] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:28:58.024 plugin-container[67026:4586974] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:28:58.024 plugin-container[67026:4586974] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665482338041	Marionette	INFO	Marionette enabled
+1665482338077	Marionette	INFO	Listening on port 65072
+Read port: 65072
+WebDriver BiDi listening on ws://127.0.0.1:65061
+1665482338458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilettQPH4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65061/devtools/browser/e2361431-b27b-4259-9d02-b43205e22bd6
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482365209	Marionette	INFO	Stopped listening on port 65072
+1665482365738	geckodriver	INFO	Listening on 127.0.0.1:65403
+1665482366246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65404" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile97iE2m"
+2022-10-11 15:29:26.690 plugin-container[67042:4587645] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:29:26.690 plugin-container[67042:4587645] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:29:26.695 plugin-container[67042:4587645] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:29:26.695 plugin-container[67042:4587645] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:29:26.695 plugin-container[67042:4587643] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:29:26.695 plugin-container[67042:4587643] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665482366711	Marionette	INFO	Marionette enabled
+1665482366750	Marionette	INFO	Listening on port 65418
+Read port: 65418
+WebDriver BiDi listening on ws://127.0.0.1:65404
+1665482367086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile97iE2m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65404/devtools/browser/29de250f-6561-4ee5-a6c0-8d897978360f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482463329	Marionette	INFO	Stopped listening on port 65418
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665482468965	geckodriver	INFO	Listening on 127.0.0.1:49793
+1665482468972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49794" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileIkZIdj"
+2022-10-11 15:31:09.418 plugin-container[67094:4589208] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:31:09.418 plugin-container[67094:4589208] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:31:09.423 plugin-container[67094:4589208] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:31:09.424 plugin-container[67094:4589208] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:31:09.424 plugin-container[67094:4589215] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:31:09.424 plugin-container[67094:4589215] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665482469439	Marionette	INFO	Marionette enabled
+1665482469480	Marionette	INFO	Listening on port 49803
+Read port: 49803
+WebDriver BiDi listening on ws://127.0.0.1:49794
+1665482469678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileIkZIdj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49794/devtools/browser/6a65004a-0bf8-4f77-bbb1-c08e2e96085a
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482507077	Marionette	INFO	Stopped listening on port 49803
+1665482507608	geckodriver	INFO	Listening on 127.0.0.1:50229
+1665482508116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50230" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilegtU3PI"
+2022-10-11 15:31:48.583 plugin-container[67126:4590155] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:31:48.584 plugin-container[67126:4590155] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:31:48.589 plugin-container[67126:4590155] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:31:48.589 plugin-container[67126:4590155] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:31:48.590 plugin-container[67126:4590153] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:31:48.590 plugin-container[67126:4590153] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665482508610	Marionette	INFO	Marionette enabled
+1665482508643	Marionette	INFO	Listening on port 50241
+Read port: 50241
+WebDriver BiDi listening on ws://127.0.0.1:50230
+1665482508993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilegtU3PI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50230/devtools/browser/478d255a-51eb-4d19-ab32-ee7c98d72652
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482592966	Marionette	INFO	Stopped listening on port 50241
+1665482598257	geckodriver	INFO	Listening on 127.0.0.1:50975
+1665482598263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50976" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileWWTLyH"
+2022-10-11 15:33:18.710 plugin-container[67187:4591588] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:33:18.710 plugin-container[67187:4591588] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:33:18.715 plugin-container[67187:4591588] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:33:18.715 plugin-container[67187:4591588] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:33:18.715 plugin-container[67187:4591586] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:33:18.715 plugin-container[67187:4591586] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665482598737	Marionette	INFO	Marionette enabled
+1665482598769	Marionette	INFO	Listening on port 50985
+Read port: 50985
+WebDriver BiDi listening on ws://127.0.0.1:50976
+1665482599138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileWWTLyH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50976/devtools/browser/852eb2db-528e-47b3-a58f-26757d13e779
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482754282	Marionette	INFO	Stopped listening on port 50985
+1665482754810	geckodriver	INFO	Listening on 127.0.0.1:51915
+1665482755322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51916" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile9R44Bo"
+2022-10-11 15:35:55.778 plugin-container[67254:4593777] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:35:55.779 plugin-container[67254:4593777] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:35:55.783 plugin-container[67254:4593777] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:35:55.783 plugin-container[67254:4593777] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:35:55.783 plugin-container[67254:4593782] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:35:55.783 plugin-container[67254:4593782] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665482755794	Marionette	INFO	Marionette enabled
+1665482755831	Marionette	INFO	Listening on port 51927
+Read port: 51927
+WebDriver BiDi listening on ws://127.0.0.1:51916
+1665482756147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofile9R44Bo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51916/devtools/browser/c09c5477-299b-48b3-8866-7e2e37e5a4c8
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482899054	geckodriver	INFO	Listening on 127.0.0.1:52788
+1665482899566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52789" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileOadD63"
+2022-10-11 15:38:20.011 plugin-container[67322:4595641] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:38:20.011 plugin-container[67322:4595641] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:38:20.016 plugin-container[67322:4595641] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:38:20.016 plugin-container[67322:4595641] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:38:20.016 plugin-container[67322:4595667] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:38:20.016 plugin-container[67322:4595667] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665482900033	Marionette	INFO	Marionette enabled
+1665482900066	Marionette	INFO	Listening on port 52800
+Read port: 52800
+WebDriver BiDi listening on ws://127.0.0.1:52789
+1665482900395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileOadD63/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52789/devtools/browser/c258a457-ff0f-4991-8ae4-4746663dcf9c
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482947065	Marionette	INFO	Stopped listening on port 52800
+1665482947584	geckodriver	INFO	Listening on 127.0.0.1:53237
+1665482948095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53238" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilenygQDT"
+2022-10-11 15:39:08.551 plugin-container[67350:4596554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:39:08.552 plugin-container[67350:4596554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:39:08.557 plugin-container[67350:4596554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:39:08.557 plugin-container[67350:4596554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-11 15:39:08.558 plugin-container[67350:4596552] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-11 15:39:08.558 plugin-container[67350:4596552] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665482948579	Marionette	INFO	Marionette enabled
+1665482948610	Marionette	INFO	Listening on port 53249
+Read port: 53249
+WebDriver BiDi listening on ws://127.0.0.1:53238
+1665482948953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilenygQDT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53238/devtools/browser/a88718a9-07a3-4a0b-ae85-e1929dcf19de
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
+1665482997402	Marionette	INFO	Stopped listening on port 53249
