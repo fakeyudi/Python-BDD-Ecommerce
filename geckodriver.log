@@ -519,3 +519,38 @@ JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, 
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.flipkart.com."
 1665482997402	Marionette	INFO	Stopped listening on port 53249
+1665483114258	Marionette	INFO	Stopped listening on port 51927
+1665635531079	geckodriver	INFO	Listening on 127.0.0.1:57009
+1665635531101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57010" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileGSy6lP"
+1665635531991	Marionette	INFO	Marionette enabled
+2022-10-13 10:02:11.991 plugin-container[86530:4971553] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 10:02:11.991 plugin-container[86530:4971553] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 10:02:12.005 plugin-container[86530:4971553] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 10:02:12.006 plugin-container[86530:4971553] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 10:02:12.006 plugin-container[86530:4971558] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 10:02:12.006 plugin-container[86530:4971558] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665635532040	Marionette	INFO	Listening on port 57016
+Read port: 57016
+WebDriver BiDi listening on ws://127.0.0.1:57010
+1665635532364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofileGSy6lP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57010/devtools/browser/4c9c15d2-8fec-4f2b-abe5-fc1a2ec0ca13
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665635613218	Marionette	INFO	Stopped listening on port 57016
+1665635613844	geckodriver	INFO	Listening on 127.0.0.1:57265
+1665635614356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57266" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilecwPTyN"
+2022-10-13 10:03:34.887 plugin-container[86580:4973170] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 10:03:34.887 plugin-container[86580:4973170] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 10:03:34.891 plugin-container[86580:4973170] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 10:03:34.891 plugin-container[86580:4973170] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-13 10:03:34.891 plugin-container[86580:4973175] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-13 10:03:34.891 plugin-container[86580:4973175] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1665635614905	Marionette	INFO	Marionette enabled
+1665635614943	Marionette	INFO	Listening on port 57273
+Read port: 57273
+WebDriver BiDi listening on ws://127.0.0.1:57266
+1665635615274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/g4/jpzrpnj9299ffsqhd33y_qn00000gn/T/rust_mozprofilecwPTyN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57266/devtools/browser/215fe8ef-5b80-440f-8652-5766a092590a
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665635699299	Marionette	INFO	Stopped listening on port 57273
